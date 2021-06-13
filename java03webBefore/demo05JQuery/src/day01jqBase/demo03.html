@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="../../../demo06ajax&json/jquery-2.1.0.min.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>jq和js方法的转换</title>
+</head>
+<script>
+    //给表单事件添加点击事件
+    //js
+    window.onload=function () {
+        $("#div3").click(function () {
+            alert("abc")
+        })
+        $("#div1").css("background-color","red");
+        $("#div2").css("backgroundColor","pink");
+    }
+    //jq
+    $(function () {
+        $("#div3").click(function () {
+            alert("abc")
+        })
+    })
+    //js
+   /* window.onload=function () {
+        alert("bbb");
+    }
+    window.onload=function () {
+        alert("ccc");//只有这个弹窗了
+    }*/
+
+
+    //js和jq的区别  js只会弹窗一次 会覆盖  而  jq 所有的都会弹窗
+    $(function () {
+        alert("eeee");
+    })
+    $(function () {
+        alert("dddd");//两个都会弹窗
+    })
+
+
+    // 样式控制
+    $("#div1").css("background-color","red");
+    $("#div2").css("backgroundColor","pink");
+</script>
+<body>
+    <div id="div1">div1...</div>
+    <div id="div2">div2...</div>
+    <input id="div3" type="button" value="点击">
+</body>
+
+</html>

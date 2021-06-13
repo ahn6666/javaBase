@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="../../../demo06ajax&json/jquery-2.1.0.min.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>jq和js方法的转换</title>
+</head>
+<body>
+    <div id="div1">div1...</div>
+    <div id="div2">div2...</div>
+</body>
+        <script>
+
+            //js
+            //获取标签
+            var div_one = document.getElementsByTagName("div");
+           /* alert(div_one);//[object HTMLCollection] 元素数组
+            alert(div_one.length);//获取元素的个数 2*/
+            //遍历 添加内容
+            for (let i = 0; i < div_one.length; i++) {
+                //改变内容
+                //div_one[i].innerHTML="aaaa";//js
+
+            }
+
+            //两者进行转换 js--->jq
+          //  $(div_one).day01jqBase("ccc");//转换所有
+            //$(div_one)[0].day01jqBase("eee");//转换第一个 转换第一个 错误  无法转化
+
+
+            //jq
+            //获取标签
+            var div_two= $("div");
+            /*alert(div_two);//[object Object]//元素数组
+            alert(div_two.length);//获取元素的个数 2*/
+            //通过jq添加内容
+            //div_two.day01jqBase("bbbb");
+            //两者进行转换 jq--->js
+            div_two[0].innerHTML="eee";//转化第一个
+            div_two.get(1).innerHTML="dddd";//转化第二个
+        </script>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<student>
+   <user number="user_0001">
+       <name id="itcast"> 李四</name>
+       <sex>男</sex>
+       <age>18</age>
+       <math>12</math>
+   </user>
+    <user number="user_0002">
+        <name>张三</name>
+        <sex>男</sex>
+        <age>18</age>
+        <math>12</math>
+    </user>
+</student>

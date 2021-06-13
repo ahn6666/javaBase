@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone='no'?>
+<?xml-stylesheet type="text/css" href="demo01.css"?>
+<!--<!DOCTYPE studen SYSTEM "demo01.dtd">&lt;!&ndash;studen 跟标签  外部dtd &ndash;&gt;-->
+<!--内部dtd -->
+<!DOCTYPE studen[
+        <!ELEMENT studen (user*)> <!--元素定义标签 外面标签sudent  定义无数次子标签 user-->
+        <!ELEMENT  user (name,age,sex)><!--user 定义name age sex 只出现一次-->
+        <!ELEMENT name (#PCDATA)><!--定义字符串-->
+        <!ELEMENT age (#PCDATA)>
+        <!ELEMENT sex (#PCDATA)>
+        <!ATTLIST studen number ID #REQUIRED>
+
+        ]>
+<studen number="one">
+    <user>
+        <name>张三</name>
+        <age>14</age>
+        <sex>男</sex>
+    </user>
+</studen>
+
+
+
+
+
+
+
+<!--
+<studen name="one">
+    <user>
+        <name>张三</name>
+        <age>18</age>
+        <sex>男</sex>
+        &lt;!&ndash;<code>
+            if(a&lt;0&amp;&amp;a&gt;10)
+            {}
+            &lt;!&ndash;等同于&ndash;&gt;
+            <![CDATA[
+                if(a>0&&a<10){}
+            ]]>
+        </code>&ndash;&gt;
+    </user>
+</studen>-->

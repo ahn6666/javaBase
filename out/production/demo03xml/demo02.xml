@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<student
+        xmlns="http://www.w3school.com.cn"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.w3school.com.cn demo02Scheme.xsd">
+    <name>张三</name>
+    <sex>男</sex>
+    <age>18</age>
+    <math>12</math>
+</student>

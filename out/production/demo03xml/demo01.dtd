@@ -1,0 +1,6 @@
+<!ELEMENT studen (user*)> <!--元素定义标签 外面标签sudent  定义无数次子标签 user-->
+<!ELEMENT  user (name,age,sex)><!--user 定义name age sex 只出现一次-->
+<!ELEMENT name (#PCDATA)><!--定义字符串-->
+        <!ELEMENT age (#PCDATA)>
+        <!ELEMENT sex (#PCDATA)>
+<!ATTLIST studen number ID #REQUIRED><!--属性 唯一-->

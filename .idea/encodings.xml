@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/java01se/demo02/src/zi06io/a.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/java02Sql/src/demo/one03.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/java02Sql/src/druid/druid02.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/java04webAfter/demo05drill/src/sensitive.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/java06maven/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java06maven/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java07webapp/src/main/java" charset="UTF-8" />
+  </component>
+</project>

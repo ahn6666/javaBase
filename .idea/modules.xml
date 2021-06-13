@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java01se/demo01/demo01.iml" filepath="$PROJECT_DIR$/java01se/demo01/demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo01Tomcat/demo01Tomcat.iml" filepath="$PROJECT_DIR$/java04webAfter/demo01Tomcat/demo01Tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo01html/demo01html.iml" filepath="$PROJECT_DIR$/java03webBefore/demo01html/demo01html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java01se/demo02/demo02.iml" filepath="$PROJECT_DIR$/java01se/demo02/demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo02bootstrap/demo02bootstrap.iml" filepath="$PROJECT_DIR$/java03webBefore/demo02bootstrap/demo02bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/demo02lml/demo02lml.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/demo02lml/demo02lml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo02response/demo02response.iml" filepath="$PROJECT_DIR$/java04webAfter/demo02response/demo02response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo03Cookie/demo03Cookie.iml" filepath="$PROJECT_DIR$/java04webAfter/demo03Cookie/demo03Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/demo03lml/demo03lml.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/demo03lml/demo03lml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java01se/demo03net/demo03net.iml" filepath="$PROJECT_DIR$/java01se/demo03net/demo03net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo03xml/demo03xml.iml" filepath="$PROJECT_DIR$/java03webBefore/demo03xml/demo03xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo04Jsuop/demo04Jsuop.iml" filepath="$PROJECT_DIR$/java03webBefore/demo04Jsuop/demo04Jsuop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java01se/demo04Test/demo04Test.iml" filepath="$PROJECT_DIR$/java01se/demo04Test/demo04Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo04jsp/demo04jsp.iml" filepath="$PROJECT_DIR$/java04webAfter/demo04jsp/demo04jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/demo04lml/demo04lml.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/demo04lml/demo04lml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo05JQuery/demo05JQuery.iml" filepath="$PROJECT_DIR$/java03webBefore/demo05JQuery/demo05JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo05drill/demo05drill.iml" filepath="$PROJECT_DIR$/java04webAfter/demo05drill/demo05drill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/demo06ajax&amp;json/demo06ajax&amp;json.iml" filepath="$PROJECT_DIR$/java03webBefore/demo06ajax&amp;json/demo06ajax&amp;json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/demo06filter&amp;Lister/demo06filter&amp;Lister.iml" filepath="$PROJECT_DIR$/java04webAfter/demo06filter&amp;Lister/demo06filter&amp;Lister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/demo04lml/demo07School/demo07School.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/demo04lml/demo07School/demo07School.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/index/index.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/index/index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java01se/java01se.iml" filepath="$PROJECT_DIR$/java01se/java01se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java02Sql/java02Sql.iml" filepath="$PROJECT_DIR$/java02Sql/java02Sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java03webBefore/java03webBefore.iml" filepath="$PROJECT_DIR$/java03webBefore/java03webBefore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java04webAfter/java04webAfter.iml" filepath="$PROJECT_DIR$/java04webAfter/java04webAfter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java05redis/java05redis.iml" filepath="$PROJECT_DIR$/java05redis/java05redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java06homeJavaweb/java06homeJavaweb.iml" filepath="$PROJECT_DIR$/java06homeJavaweb/java06homeJavaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBug.iml" filepath="$PROJECT_DIR$/javaBug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+    </modules>
+  </component>
+</project>
